@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891932703278",
+    "project_id": "courtship-to-marriage",
+    "storage_bucket": "courtship-to-marriage.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891932703278:android:b7d8771ec6bac49555bdbf",
+        "android_client_info": {
+          "package_name": "com.evansfrancis.courtshiptomarriage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Cu6SFN5-PcQHdI_fljGu5sOx3d4eF-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
